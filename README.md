@@ -1,2 +1,2 @@
 # Test
-Used for testing 
+This is my 1st repository 
